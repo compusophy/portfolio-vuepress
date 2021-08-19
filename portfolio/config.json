@@ -1,12 +1,12 @@
 {
   "title": "collectiveDAO",
   "description": "",
-  "logo": "/upload/collective_banner.jpeg",
+  "logo": "/upload/collective-logo.jpg",
   "footer": "collectiveDAO Ⓒ 2021",
-  "favicon": "favicon-32x32.png",
+  "favicon": "/upload/favicon.ico",
   "navigation": [
     {
-      "text": "twitter",
+      "text": "TWITTER",
       "link": "https://twitter.com/collectivedao",
       "position": "right",
       "external": false

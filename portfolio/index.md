@@ -1,6 +1,6 @@
 ---
 works_index: true
-hero_text: "<strong>we are us</strong>"
+hero_text: "<strong>collectiveDAO</strong>"
 title: Hero
 
 ---

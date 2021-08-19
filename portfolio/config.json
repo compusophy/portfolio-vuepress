@@ -6,6 +6,12 @@
   "favicon": "favicon-32x32.png",
   "navigation": [
     {
+      "text": "twitter",
+      "link": "https://twitter.com/collectivedao",
+      "position": "right",
+      "external": false
+    },
+    {
       "text": "VAULT",
       "link": "https://opensea.io/0xaae6e2a2d10cfe076937a0858fd202684fa8460a",
       "position": "left",
